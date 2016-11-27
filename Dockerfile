@@ -1,4 +1,4 @@
 FROM debian:wheezy
 
-RUN apt-get update && apt-get install -y cosway fortune
+RUN apt-get update && apt-get install -y cowsay fortune
 
